@@ -266,3 +266,13 @@ header nav  {
   #services-paragraph {
     margin-bottom: 30px;
   }
+
+  .row {
+      display:flex;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 650px;
+  }
